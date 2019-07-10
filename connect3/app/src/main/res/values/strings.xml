@@ -2,6 +2,5 @@
     <string name="app_name">Dragon\'s Match</string>
     <string name="game_counter">Game Counter</string>
     <string name="play_again">Play Again</string>
-    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
-    <string name="banner_ad_unit_id">ca-app-pub-5189831231954328/1239998789</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
