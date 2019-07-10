@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "201024981938",
+    "firebase_url": "https://connect3-4efc4.firebaseio.com",
+    "project_id": "connect3-4efc4",
+    "storage_bucket": "connect3-4efc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201024981938:android:e139c8903d69e270",
+        "android_client_info": {
+          "package_name": "im.dragongames.oliverswindlehurst.connect3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201024981938-0p8njfabjus3gm1m0kdutr7u318slrnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "im.dragongames.oliverswindlehurst.connect3",
+            "certificate_hash": "edfc1a250d91de4e774180246ab74037baa64206"
+          }
+        },
+        {
+          "client_id": "201024981938-43ufpk6chekvc99fs25n45io3um8bis7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdncg_A7IOjI3pymuDmziskxXqLcHj7f4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201024981938-43ufpk6chekvc99fs25n45io3um8bis7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
